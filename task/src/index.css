@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: orange;
+}
+.form {
+  height: 346px;
+  width: 446px;
+  background-color: white;
+  align-self: center;
+  margin: 120px 0px 0px 437px;
+  border-radius: 20px;
+}
+
+.header h3{
+  text-align: center;
+  padding: 39px 0px 0px 0px;
+}
+.Logo {
+  text-align: center;
+}
+.Logo span:nth-child(2){
+  color: orange;
+}
+.input{
+  margin: 31px 0px 0px 54px;
+}
+.input input{
+  width: 318px;
+  height: 29px;
+}
+.input input:nth-child(2){
+  margin-top: 30px;
+}
+.large{
+  width: 81%;
+}
+.forget{
+  color: #007BFF;
+}
